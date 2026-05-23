@@ -1,0 +1,6 @@
+{
+  "name": "시험 공부 계획 플래너",
+  "description": "중학교 3학년 여학생을 위해 탄생한 친절하고 귀여우며 완벽한 내신 만점을 겨냥한 AI 언니 플래너입니다. 러블리한 파스텔 체리 테마와 격려의 다정한 코칭, 과목 밸런스 공부 계획표, 완수 체크 및 실시간 피드백 통계를 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
